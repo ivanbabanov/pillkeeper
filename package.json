@@ -1,0 +1,17 @@
+{
+  "name": "SimpleProject",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "firebase": "^2.3.2",
+    "react-native": "^0.17.0",
+    "react-native-camera": "^0.3.8",
+    "react-native-fbsdkcore": "0.0.7",
+    "react-native-fbsdklogin": "0.0.7",
+    "react-native-swipeout": "^2.0.12",
+    "reactfire": "^0.5.1"
+  }
+}
